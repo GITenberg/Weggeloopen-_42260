@@ -29,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44702
 description: Abridged translation of "Two little runaways," by James Buckland, which
   is in turn adapted from "Les aventures de Jean-Paul Choppart," by Louis Desnoyers.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42260#Weggeloopen-
 gutenberg_issued: '2013-03-04'
 gutenberg_type: Text
 identifiers:
