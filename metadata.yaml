@@ -1,0 +1,60 @@
+_repo: Weggeloopen-_42260
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Aldin, Cecil
+    alias: Aldin, Cecil Charles Windsor
+    birthdate: 1870
+    deathdate: 1935
+    gutenberg_agent_id: '41602'
+    url: http://www.gutenberg.org/2009/agents/41602
+  translator:
+    agent_name: Donath-van der Scheer, Mevr.
+    alias: Adona
+    gutenberg_agent_id: '41601'
+    url: http://www.gutenberg.org/2009/agents/41601
+covers:
+- cover_type: archival
+  image_path: 42260-h/images/cover-th.jpg
+creator:
+  authors:
+  - agent_name: Buckland, James
+    gutenberg_agent_id: '41600'
+    url: http://www.gutenberg.org/2009/agents/41600
+  - agent_name: Desnoyers, Louis
+    alias: Derville, M.
+    birthdate: 1805
+    deathdate: 1868
+    gutenberg_agent_id: '44702'
+    url: http://www.gutenberg.org/2009/agents/44702
+description: Abridged translation of "Two little runaways," by James Buckland, which
+  is in turn adapted from "Les aventures de Jean-Paul Choppart," by Louis Desnoyers.
+gutenberg_issued: '2013-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42260'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Police -- Juvenile fiction'
+- !lcsh 'Wit and humor, Juvenile'
+- !lcsh 'Attitude change -- Juvenile fiction'
+- !lcsh 'Farm life -- Juvenile fiction'
+- !lcsh 'Behavior -- Juvenile fiction'
+- !lcsh 'Interpersonal relations -- Juvenile fiction'
+- !lcsh 'Temper -- Juvenile fiction'
+- !lcsh 'Runaway children -- Juvenile fiction'
+- !lcsh 'Theft -- Juvenile fiction'
+- !lcsh 'Prisoners -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Imagination -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+title: Weggeloopen!
+url: http://www.gutenberg.org/ebooks/42260
